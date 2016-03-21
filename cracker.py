@@ -1,7 +1,7 @@
 import zipfile
 
-zipfilename = 'James.zip'
-dictionary = 'dict.txt'
+zipfilename = 'zipNameHere.zip' # Change this to link to zip required to crack
+dictionary = 'dictFileHere.txt' # Change this to file with passwords in to use
 
 password = None
 password1 = 1
